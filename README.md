@@ -5,8 +5,11 @@
 ↳ Desenvolvido ao vivo no youtube: https://www.youtube.com/watch?v=9sFL_1-VN6A&t=1597s
 
 <h3><b> <em>🗃️ About project: </em> </b> </h3>
-<p> • Project readjusted for a last minute java jr developer job, however, project planning and ideology such as API consumption, integration with database made, front-end unfinished. </p> <br>
-<p> • Projeto reajustado para uma vaga de desenvolvedor java jr de última hora, porém, planejamento e ideologia do projeto como consumo da API, integração com banco feitos, front-end inacabado. </p>
+<p> • O objetivo desta aplicação é criar uma gestão de biblioteca, onde os livros tenham id, título, nome do autor, sinopse (texto) e uma categoria.
+
+Já na categoria teríamos diversas, sendo elas categorizadas por um ID, Nome de categoria e descrição de categoria. 
+
+Em teoria a aplicação permitiria ao usuário consultar os livros presentes na biblioteca através da categoria. Em um momento posterior, o planejamento seguiria para a inserção de um sistema de login desenvolvido em angular para que o administrador pudesse adicionar e remover livros e que os usuários apenas tivessem opção de pesquisa </p>
 <br>
 
 <h3><em>• Front-end em angular ainda não finalizado e integrado // Angular front-end not yet finalized and integrated </h3>
